@@ -3,7 +3,7 @@
 ***Excercise #1 -2 are located in rts_code_challenge.js***
 
 
-##Excercise 3
+##Excercise 3##
 
 ***If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?***
 
